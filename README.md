@@ -740,6 +740,6 @@ This project successfully demonstrates:
 
 <div align="center">
 
-**🎓 Srinath Hettiarachi
+**🎓 Srinath Hettiarachi**
 
 </div>
