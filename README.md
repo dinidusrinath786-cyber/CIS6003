@@ -740,16 +740,6 @@ This project successfully demonstrates:
 
 <div align="center">
 
-**🎓 Built with ❤️ for Advanced Programming Excellence**
-
-**🏫 School of Technologies | Cardiff Metropolitan University**
-
-**📧 Module Leader:** priyanga@icbtcampus.edu.lk
-
-**📅 Academic Year:** 2024 | **Semester:** 1
-
-**📚 Module Code:** CIS6003 | **Module Title:** Advanced Programming
-
-**⭐ Star this repository if you find it helpful!**
+**🎓 Srinath Hettiarachi
 
 </div>
